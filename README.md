@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil do GitHub! 🚀
 
-Olá, sou um desenvolvedor Full Stack Junior e este é o meu perfil do GitHub! Aqui você encontrará meus projetos e trabalhos mais recentes, com códigos e documentações.
+Olá, sou um desenvolvedor Full Stack Junior e este é o meu perfil do GitHub! Aqui você encontrará meus projetos e meus trabalhos mais recentes.
 
 ## Habilidades ⭐
 
