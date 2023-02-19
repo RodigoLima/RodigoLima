@@ -1,16 +1,17 @@
-### Hi there 👋
+# Bem-vindo ao meu perfil do GitHub! 🚀
 
-<!--
-**RodigoLima/RodigoLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, sou um desenvolvedor Full Stack Junior e este é o meu perfil do GitHub! Aqui você encontrará meus projetos e trabalhos mais recentes, com códigos e documentações.
 
-Here are some ideas to get you started:
+## Habilidades ⭐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minhas principais habilidades como desenvolvedor Full Stack Junior incluem:
+
+- Desenvolvimento Front-End: HTML, CSS, JavaScript, Bootstrap, Angular
+- Desenvolvimento Back-End: Node.js, Express, Python, SQL
+- Controle de Versionamento: Git, GitHub
+
+## Contato 📧
+
+Se você tiver alguma pergunta, sugestão ou oportunidade, sinta-se à vontade para entrar em contato comigo por meio do meu e-mail [ferreirarodrigo230@gmail.com] ou pelo LinkedIn [https://www.linkedin.com/in/rodrigolimaferreira/].
+
+Muito obrigado por visitar meu perfil!
